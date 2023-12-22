@@ -13,7 +13,6 @@
     <Folder Include="Infrastructure\Commands\" />
     <Folder Include="Models\" />
     <Folder Include="Views\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
