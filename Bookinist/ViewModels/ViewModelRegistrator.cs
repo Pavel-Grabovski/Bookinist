@@ -10,7 +10,6 @@ namespace Bookinist.ViewModels
 	static class ViewModelRegistrator
 	{
 		public static IServiceCollection AddViewModel(this IServiceCollection services) => services
-			.AddSingleton<MainWindowViewModel>()
-			;
+			.AddSingleton<MainWindowViewModel>();
 	}
 }
